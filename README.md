@@ -8,6 +8,14 @@
 - 🤔 I’m looking for help with improving my skills in data analysis and machine learning.
 - 💬 Ask me about anything related to Python and web development. I am happy to share my knowledge and help in any way I can.
 
+## Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,docker,git,postman,sqlite,linux,html,css,vscode " />
+  </a>
+</p>
+
+
 ## Contact me
 <p>
   <a href="https://www.linkedin.com/in/nbkrtm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
