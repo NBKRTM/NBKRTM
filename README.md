@@ -11,7 +11,7 @@
 ## Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,docker,git,postman,sqlite,linux,html,css,vscode " />
+    <img src="https://skillicons.dev/icons?i=python,django,docker,git,postgres,postman,sqlite,linux,html,css,vscode, " />
   </a>
 </p>
 
