@@ -1,12 +1,13 @@
-### Hi 👋, i'm Nebykov Artem and i am a python developer
+### Greetings 👋, I'm Artem Nebykov, a Python Developer
 
 ## About me
 
-- 🔭 I’m currently working on personal Python projects to improve my skills and knowledge.
-- 🌱 I’m currently learning Python and exploring its various libraries and frameworks.
-- 👯 I’m looking to collaborate on any Python projects or start-up ideas that can challenge me and help me grow as a developer.
-- 🤔 I’m looking for help with improving my skills in data analysis and machine learning.
-- 💬 Ask me about anything related to Python and web development. I am happy to share my knowledge and help in any way I can.
+- 🔭 I am currently engrossed in advancing my proficiency and insights through diverse Python projects.
+- 🌱 My current focus entails an in-depth exploration of Python, alongside its versatile libraries and frameworks.
+- 👯 I am keen on collaborating on innovative Python projects or startup initiatives, which can challenge my expertise and catalyze my development.
+- 🤔 I am actively seeking opportunities to enhance my prowess in data analysis and machine learning.
+- 💬 Feel free to inquire about any facets related to Python and web development. I am delighted to impart my knowledge and offer assistance wherever possible.
+
 
 ## Skills
 <p>
