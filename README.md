@@ -5,7 +5,6 @@
 - 🔭 I am currently engrossed in advancing my proficiency and insights through diverse Python projects.
 - 🌱 My current focus entails an in-depth exploration of Python, alongside its versatile libraries and frameworks.
 - 👯 I am keen on collaborating on innovative Python projects or startup initiatives, which can challenge my expertise and catalyze my development.
-- 🤔 I am actively seeking opportunities to enhance my prowess in data analysis and machine learning.
 - 💬 Feel free to inquire about any facets related to Python and web development. I am delighted to impart my knowledge and offer assistance wherever possible.
 
 
