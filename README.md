@@ -1,4 +1,4 @@
-### Greetings 👋, I'm Artem Nebykov, a Python Developer
+### 👋, I'm Artem Nebykov, a Python Developer
 
 ## About me
 
